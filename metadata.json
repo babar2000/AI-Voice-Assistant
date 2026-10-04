@@ -1,0 +1,6 @@
+{
+  "name": "Apex AI - Executive Voice Assistant",
+  "description": "Voice-driven Executive Assistant for Email and WhatsApp: search messages, summarize threads, draft professional replies, and securely verify outgoing communications.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
